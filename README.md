@@ -27,13 +27,22 @@ How have housing and rental costs changed over time, and under what conditions m
 6. Developed interactive Power BI visualizations to identify trends and differences.
 7. Interpreted the results to determine the factors influencing the rent-versus-buy decision.
 
-## Dashboard
+## Analysis and Visualizations
 
-A Power BI dashboard will be included to visualize housing costs, rental trends, and affordability changes.
+The analysis includes comparisons of home values, monthly rent, mortgage rates, and estimated mortgage payments in St. Louis from May 2021 through May 2026. Visualizations are included in the Jupyter notebook to show housing cost trends and changes in affordability over time.
 
 ## Key Findings
 
-Key findings will be added after the final analysis and dashboard are completed.
+- St. Louis home values increased from approximately **$218,494 in May 2021** to **$276,267 in May 2026**, an increase of **26.4%**.
+- Monthly rent increased from approximately **$1,079.52** to **$1,430.32**, an increase of **32.5%**.
+- The average 30-year mortgage rate increased from **2.96%** in May 2021 to **6.44%** in May 2026.
+- Under a 20% down-payment and 30-year fixed-rate assumption, the estimated monthly principal-and-interest mortgage payment increased from approximately **$733.41** to **$1,388.61**, an increase of **89.3%**.
+- In May 2021, rent was approximately **$346.11 more per month** than the estimated mortgage payment. By May 2026, the difference had narrowed to only **$41.71 per month**.
+- The results show that higher mortgage rates substantially reduced the monthly cost advantage of purchasing compared with renting.
+
+### Analysis Note
+
+The estimated mortgage payment includes principal and interest only. Property taxes, homeowners insurance, maintenance, closing costs, and other ownership expenses are not included.
 
 ## Repository Contents
 
